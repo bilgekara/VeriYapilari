@@ -6,5 +6,5 @@
 
 Kodu indirdikten sonra cmd ekranına aşağıdaki kodu yazarak çalıştırabilirsiniz.
 
-<img mingw32-make <img>
+<!! mingw32-make !!>
 
